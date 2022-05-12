@@ -5,6 +5,6 @@ swojej listy przeczytanych książek oraz zaznaczenia nowych, z którymi
 użytkownik chciałby się zapoznać w przyszłości. Pozwala również na
 powiększenie bazy danych o niezainicjowane wcześniej pozycje.
 
-Użytkownik testowy:
-login: root
+Użytkownik testowy: <br>
+login: root <br>
 hasło: Zaq12wsx
